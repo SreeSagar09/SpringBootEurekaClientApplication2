@@ -1,6 +1,7 @@
 A Simple Netflix Eureka Client application:
 Programs:
-SpringBootEurekaClientApplication2Application.java
+* SpringBootEurekaClientApplication2Application.java
+* ClientController.java
 Notes:
 * The @EnableEurekaClient is to enable Eureka discovery configuration.
 * It can used at class level, it is optional.
